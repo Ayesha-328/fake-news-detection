@@ -58,12 +58,12 @@ The dataset used for training and evaluation is sourced from Kaggle and contains
 ## How to Use
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/fake-news-detection.git
+   git clone https://github.com/Ayesha-328/fake-news-detection.git
    cd fake-news-detection
    ```
 2. **Install Dependencies**:
    ```bash
-   pip install -r requirements.txt
+   pip install <dependencies>
    ```
 3. **Run the Streamlit App**:
    ```bash
