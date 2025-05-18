@@ -6,12 +6,12 @@ This project aims to develop an automated system for classifying news articles a
 ## Frontend Preview  
 ### 1. Input Interface  
 Users can paste news articles to check authenticity:  
-![Input Interface](images/img1.png)  
+![Input Interface](images/img3.png)  
 
 ### 2. Fake News Detection Example  
 ![Fake News Detection](images/img2.png)  
 
-![Fake News Detection](images/img3.png)  
+![Fake News Detection](images/img1.png)  
 
 ## Features
 - **Text Preprocessing**: Includes lowercasing, noise removal, stopword removal, tokenization, and stemming.
